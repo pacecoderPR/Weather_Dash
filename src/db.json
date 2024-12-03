@@ -1,0 +1,97 @@
+{
+  "favorites": [
+    {
+      "id": "1273006",
+      "coord": {
+        "lon": 75.4667,
+        "lat": 22.2167
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 184.76600000000002,
+        "feels_like": 82.85,
+        "temp_min": 84.87,
+        "temp_max": 84.87,
+        "pressure": 1012,
+        "humidity": 31,
+        "sea_level": 1012,
+        "grnd_level": 986
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 8.21,
+        "deg": 94,
+        "gust": 9.57
+      },
+      "clouds": {
+        "all": 10
+      },
+      "dt": 1733209932,
+      "sys": {
+        "country": "IN",
+        "sunrise": 1733188950,
+        "sunset": 1733228031
+      },
+      "timezone": 19800,
+      "name": "Dhāmnod",
+      "cod": 200
+    },
+    {
+      "id": 1271157,
+      "coord": {
+        "lon": 74.0833,
+        "lat": 15.3333
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 184.244,
+        "feels_like": 92.46,
+        "temp_min": 84.58,
+        "temp_max": 84.58,
+        "pressure": 1008,
+        "humidity": 72,
+        "sea_level": 1008,
+        "grnd_level": 995
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 6.76,
+        "deg": 71,
+        "gust": 19.06
+      },
+      "rain": {
+        "1h": 0.11
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1733210783,
+      "sys": {
+        "type": 1,
+        "id": 9233,
+        "country": "IN",
+        "sunrise": 1733188535,
+        "sunset": 1733229110
+      },
+      "timezone": 19800,
+      "name": "Goa",
+      "cod": 200
+    }
+  ]
+}

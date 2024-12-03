@@ -1,0 +1,25 @@
+.weather-display {
+    margin: 20px auto;
+    max-width: 600px;
+    text-align: left;
+  }
+  
+  .current-weather {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .forecast ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .forecast li {
+    background: #e7f3ff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
